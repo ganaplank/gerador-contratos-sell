@@ -1,7 +1,12 @@
 {
-  "name": "react-example",
+  {
+  "name": "gerador-contratos-sell",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Ferramenta interna de automação de documentos - Sell Administradora",
+  "author": "Victor Chantre <victor@sell.com.br>",
+  ...
+}
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
