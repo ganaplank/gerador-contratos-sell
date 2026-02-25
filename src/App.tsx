@@ -50,7 +50,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-xl font-bold tracking-tight leading-tight">Gerador de Documentos Dinâmico</h1>
-              <p className="text-xs text-indigo-300 font-medium tracking-wide">100% Client-Side • Markdown Support</p>
+              <p className="text-xs text-indigo-300 font-medium tracking-wide"></p>
             </div>
           </div>
         </div>
